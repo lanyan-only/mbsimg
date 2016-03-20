@@ -1,0 +1,42 @@
+  body,p{
+     margin:0;
+  }
+  .banner{
+      width:969px;
+	  height:60px; 
+	  background:white;
+	  margin:0 auto;
+   }
+   .top{
+       text-align:center;
+   }
+  .nav{
+      width:964px;
+	  height:28px; 
+	  background:white;
+	  margin:0 auto;
+	  padding-left:5px;
+
+  }
+  .nav1{
+     float:left;
+	 margin-right:2px;
+  }
+  .con{
+      width:959px;
+	  height:504px; 
+	  background:white;
+	  margin:0 auto;
+	  padding-left:4px;
+	  padding-top:6px;
+	  padding-right:5px;
+  }
+ .con1{
+     float:left;
+	
+  }
+  .con2{
+	margin-right:11px;
+	margin-bottom:9px;
+  }
+ 
